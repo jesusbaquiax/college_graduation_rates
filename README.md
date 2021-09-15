@@ -26,8 +26,7 @@ One of the most important and stressful decisions a high school senior and their
 
 ## Business Understanding
 
-The American The College Counseling Association
-this is how we will address the business problem....
+Bottom Line, a college counselling non-profit organization, hired a data analyst consultant to see what other factors of a college or university lead to higher completion rate. Since they serve mostly first generations students, they want to encourage to look at other schools that have high completion rates.
 
 ## Data Understanding
 
@@ -64,7 +63,7 @@ Three models were used to determine if the top 5 features from each category dat
 The baseline model, the Dummy Regressor, produces a terrible score of 0.004003885233955451.
 The performance of the following models are highlighted in the chart below.
 
-![model perf_graph](./Images/model_perf_graph.png)
+![model perf_graph](./Images/model_perf_graph.PMG)
 
 
 ## Analysis and Conclusions
@@ -100,6 +99,7 @@ Students and their parents often feel that they must choose the most prestigious
 │   └── Scorecard.csv
 ├── Images
 │   ├── cover_image.jpg
+│   ├── model_perf_graph.PNG
 │   ├── money_earned_graph.png
 │   ├── student_debt_graph.png
 │   ├── top_attendance_graph.png
