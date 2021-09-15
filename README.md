@@ -63,7 +63,7 @@ Three models were used to determine if the top 5 features from each category dat
 The baseline model, the Dummy Regressor, produces a terrible score of 0.004003885233955451.
 The performance of the following models are highlighted in the chart below.
 
-![model perf_graph](./Images/model_perf_graph.PMG)
+![model perf_graph](./Images/model_perf_graph.PNG)
 
 
 ## Analysis and Conclusions
