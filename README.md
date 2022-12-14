@@ -70,7 +70,7 @@ The performance of the following models are highlighted in the chart below.
 
 The Ridge Regression Model performed the best with a train and test score of 88% and 81%, respectively. Other models were, for the most part, able to not overfit to the train dataset, but not perform as well. 
 
-This model was about to explain 81% of the variance within in the data. This is due to the complexity of the dataset and more data will be needed to improve the model's performance.
+This model was able to explain 81% of the variance within in the data. This is due to the complexity of the dataset and more data will be needed to improve the model's performance.
 
 The complexity is highlighted when looking at the top two correlate features: Out of State tuition and fees and Average Cost of Attendance. The graphs show that for the most part, there is a positive trend between the two variables. However, Gibbs College and Landmark College are outliers and it is because Gibbs College eventually closed due to academic performance and complaince issues and Landmark College is a college exclusively for those with diagnosed learning disabilities, attention disorders, or autism.
 
